@@ -5,11 +5,6 @@ Detect depression related posts on Instagram profiles.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+The AI gathers captions and images from the user's personal Instagram profile through Instagram's private API. The Google cloud dataset supports the captions and pictures analysis and the app reports whether approximately half of the user's pictures are depressive. The app also generates the captions sentiment analysis results.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Youtube video of project demonstration: https://www.youtube.com/watch?v=W-ue5wEXvWg&t=9s 
